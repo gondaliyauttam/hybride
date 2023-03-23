@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613253426867",
+    "project_id": "authbloc-402a9",
+    "storage_bucket": "authbloc-402a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613253426867:android:d4f9e70c6d4cc2c4c08ac6",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613253426867-dg9gg5ug2820oi7g0jplq9e8dqnrrqvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD75O7HMxU5KG3bXTGWD1W6A691AoYXl7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613253426867-dg9gg5ug2820oi7g0jplq9e8dqnrrqvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
