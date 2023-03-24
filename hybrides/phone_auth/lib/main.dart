@@ -1,3 +1,5 @@
+// ignore_for_file: unused_label, curly_braces_in_flow_control_structures, prefer_const_constructors
+
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:phone_auth/screen/homescreen.dart';
@@ -35,10 +37,8 @@ class MyApp extends StatelessWidget {
             };
             if (state is Authcodelogin) {
               return HomeScreen();
-            } else if (state is Authcodelogout) {
-              return SigninScreen();
             } else {
-              return Scaffold();
+              return SigninScreen();
             }
           },
         ),
